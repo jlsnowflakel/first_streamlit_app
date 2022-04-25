@@ -38,10 +38,6 @@ try:
         
  Except URLError as e:
      streamlit.error()
-#import requests
-
- 
-# take the json version of the response and normalize it
 
 #output it the screen as a table
 
